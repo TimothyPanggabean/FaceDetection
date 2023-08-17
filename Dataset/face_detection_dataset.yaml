@@ -1,0 +1,12 @@
+train: ../train/
+val: ../val/
+
+nc: 1
+names: ['wajah']
+
+roboflow:
+  workspace: sipalingpaling
+  project: deteksi-wajah-cvata
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sipalingpaling/deteksi-wajah-cvata/dataset/1
